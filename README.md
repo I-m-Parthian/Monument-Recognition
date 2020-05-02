@@ -29,4 +29,4 @@ Layers of Neural Network
 * Fully Connected Layer- If each neuron in a layer receives input from all the neurons in the previous layer, then this layer is called fully connected layer. The output of this layer is computed by matrix multiplication followed by bias offset.
 
 ## Results
-![CNN Results] (https://github.com/I-m-Parthian/Monument-Recognition/blob/master/Results/acc_graph.png)
+![CNN Results](https://github.com/I-m-Parthian/Monument-Recognition/blob/master/Results/acc_graph.png)
